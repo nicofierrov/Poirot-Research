@@ -1,12 +1,15 @@
 # Cómo Ejecutar la Aplicación
-Paso 1: Navegar al directorio
+
+## Paso 1: Navegar al directorio
 cd deep_search_app
-Paso 2: Instalar dependencias
+## Paso 2: Instalar dependencias
 pip install -r requirements.txt
+
 O si tienes problemas:
 
 pip3 install -r requirements.txt
-Paso 3: (Opcional pero Recomendado) Configurar API Key
+
+## Paso 3: (Opcional pero Recomendado) Configurar API Key
 Para funcionalidad completa, configura tu API key de Anthropic:
 
 # Copiar el archivo de ejemplo
